@@ -175,7 +175,7 @@ canvas {
   /* max-height: calc(100vh - 120px); */ /* Ajuste conforme necessário (100vh - paddings - outras margens) */
   /* overflow-y: auto; */ /* Adiciona scroll vertical se o conteúdo interno for maior */
 }
-
+    
 section {
   margin: 1.5rem 0px;
 }
